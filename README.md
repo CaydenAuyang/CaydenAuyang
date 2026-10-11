@@ -25,3 +25,4 @@ A macOS agent that reads the screen with computer vision and OCR and uses a lang
 - [Inferno Acoustic Map](https://caydenauyang.github.io/Inferno-Acoustic-Map/): an interactive map of how sound changes as Dante descends through Hell, from the noise of the Styx to the silence of Cocytus.
 - [Han Dynasty Jeopardy](https://caydenauyang.github.io/Han-Dynasty-Jeopardy/): a Jeopardy-style review game about the Han Dynasty, with a video explanation for each clue.
 - [STORM](https://github.com/CaydenAuyang/STORM): an audiovisual storm installation in Three.js that reacts to the sound and movement in the room through the microphone and webcam.
+- [Christmas Shock](https://caydenauyang.github.io/Christmas-Game/): a holiday-themed first-person shooter that runs in the browser, with five stages of enemy waves, bot matches and a multiplayer mode.
